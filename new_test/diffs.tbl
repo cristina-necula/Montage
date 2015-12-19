@@ -1,0 +1,19 @@
+| cntr1 | cntr2 |                                  plus |                                 minus |         diff             |
+| int   | int   |                                  char |                                  char |         char             |
+       0       3 hdu0_2mass-atlas-990214n-j1100256.fits  hdu0_2mass-atlas-990214n-j1100244.fits  diff.000000.000003.fits
+       0       8 hdu0_2mass-atlas-990214n-j1100256.fits  hdu0_2mass-atlas-990214n-j1110021.fits  diff.000000.000008.fits
+       1       2 hdu0_2mass-atlas-990214n-j1180256.fits  hdu0_2mass-atlas-990214n-j1190021.fits  diff.000001.000002.fits
+       1       7 hdu0_2mass-atlas-990214n-j1180256.fits  hdu0_2mass-atlas-990214n-j1180244.fits  diff.000001.000007.fits
+       1       8 hdu0_2mass-atlas-990214n-j1180256.fits  hdu0_2mass-atlas-990214n-j1110021.fits  diff.000001.000008.fits
+       2       4 hdu0_2mass-atlas-990214n-j1190021.fits  hdu0_2mass-atlas-990214n-j1190032.fits  diff.000002.000004.fits
+       2       6 hdu0_2mass-atlas-990214n-j1190021.fits  hdu0_2mass-atlas-990214n-j1200256.fits  diff.000002.000006.fits
+       2       7 hdu0_2mass-atlas-990214n-j1190021.fits  hdu0_2mass-atlas-990214n-j1180244.fits  diff.000002.000007.fits
+       2       9 hdu0_2mass-atlas-990214n-j1190021.fits  hdu0_2mass-atlas-990214n-j1200244.fits  diff.000002.000009.fits
+       3       5 hdu0_2mass-atlas-990214n-j1100244.fits  hdu0_2mass-atlas-990214n-j1110032.fits  diff.000003.000005.fits
+       3       8 hdu0_2mass-atlas-990214n-j1100244.fits  hdu0_2mass-atlas-990214n-j1110021.fits  diff.000003.000008.fits
+       4       7 hdu0_2mass-atlas-990214n-j1190032.fits  hdu0_2mass-atlas-990214n-j1180244.fits  diff.000004.000007.fits
+       4       9 hdu0_2mass-atlas-990214n-j1190032.fits  hdu0_2mass-atlas-990214n-j1200244.fits  diff.000004.000009.fits
+       5       7 hdu0_2mass-atlas-990214n-j1110032.fits  hdu0_2mass-atlas-990214n-j1180244.fits  diff.000005.000007.fits
+       5       8 hdu0_2mass-atlas-990214n-j1110032.fits  hdu0_2mass-atlas-990214n-j1110021.fits  diff.000005.000008.fits
+       6       9 hdu0_2mass-atlas-990214n-j1200256.fits  hdu0_2mass-atlas-990214n-j1200244.fits  diff.000006.000009.fits
+       7       8 hdu0_2mass-atlas-990214n-j1180244.fits  hdu0_2mass-atlas-990214n-j1110021.fits  diff.000007.000008.fits

@@ -1,0 +1,14 @@
+prefix=/export/home/acs/stud/c/cristina.necula/CC/montage/lib/src/freetype-2.5.4/../../freetype
+exec_prefix=/export/home/acs/stud/c/cristina.necula/CC/montage/lib/src/freetype-2.5.4/../../freetype
+libdir=/export/home/acs/stud/c/cristina.necula/CC/montage/lib/src/freetype-2.5.4/../../freetype/lib
+includedir=/export/home/acs/stud/c/cristina.necula/CC/montage/lib/src/freetype-2.5.4/../../freetype/include/freetype2
+
+Name: FreeType 2
+URL: http://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 17.3.11
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -lbz2
+Cflags: -I${includedir}
